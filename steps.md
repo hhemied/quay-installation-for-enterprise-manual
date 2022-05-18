@@ -15,9 +15,9 @@ published: true
 # Steps:`
 
 - **_Important links_**
-  [Add proxy variables to Clair - Red Hat Customer Portal](https://access.redhat.com/solutions/6435091)
-  [Early access documentation for Red Hat Quay 3.7.0](https://stevsmit.github.io/quay-docs/eap-directory/html-single/)
-  [Chapter 2. Configuration fields Red Hat Quay 3.6 | Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/red_hat_quay/3.6/html/configure_red_hat_quay/config-fields-intro#config-preconfigure-automation-intro)
+  - [Add proxy variables to Clair - Red Hat Customer Portal](https://access.redhat.com/solutions/6435091)
+  - [Early access documentation for Red Hat Quay 3.7.0](https://stevsmit.github.io/quay-docs/eap-directory/html-single/)
+  - [Chapter 2. Configuration fields Red Hat Quay 3.6 | Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/red_hat_quay/3.6/html/configure_red_hat_quay/config-fields-intro#config-preconfigure-automation-intro)
 - install quay registry operator
   > The steps is available in the documentations
 - create quay namespace
